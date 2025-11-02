@@ -46,3 +46,12 @@ It combines randomness, user input validation, and basic logic control — perfe
     ```bash
     python find_golden_star.py
 
+
+## Example Output
+$$
+    Enter Map Coordinates: 22
+    Oops, You couldn't find it.
+
+    Enter Map Coordinates: 13
+    Congratulations! You have found the Golden Star!
+$$
